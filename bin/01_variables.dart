@@ -1,7 +1,7 @@
-//! Variables and Comments
+// * Variables and Comments
 
 void main() {
-  //! Declaring Dart Variables
+  // * Declaring Dart Variables
 
   //? Method #1
   String var1;
