@@ -2,7 +2,7 @@
 
 //? #1 String
 
-void main() {
+void string() {
   // * Normal String
   String name = 'Basuki Ridho';
   print(name); // output = Basuki Ridho
@@ -30,4 +30,17 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
   print(lorem);
   // output = Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+}
+
+//? #1 Number
+
+void number() {
+  // * Tipe Data Num
+  // Tipe Data Number dapat menampung bilangan bulat maupun desimal
+  num a = 10;
+  num b = 10.5;
+
+  // * Integer dan Double
+  int x = 10;       // Integer menampung bilangan bulat
+  double y = 10.5;  // Double menampung bilangan desimal
 }
