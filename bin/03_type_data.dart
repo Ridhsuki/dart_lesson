@@ -44,3 +44,14 @@ void number() {
   int x = 10;       // Integer menampung bilangan bulat
   double y = 10.5;  // Double menampung bilangan desimal
 }
+
+//? #1 Boolean
+
+void boolean() {
+  // * True, False
+  bool isLoading = true;
+  bool isLogin = false;
+
+  print(isLoading); // output = true
+  print(isLogin); // output = false
+}
