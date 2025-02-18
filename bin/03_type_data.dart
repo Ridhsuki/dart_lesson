@@ -23,7 +23,7 @@ void string() {
   print(chat); // output = Budi: 'Haloo, nama saya Budi!'
 
   // * Multiline String
-  // Menggunakan (''')
+  // Menggunakan (''' content ''')
   String lorem = '''
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 ''';
@@ -41,8 +41,8 @@ void number() {
   num b = 10.5;
 
   // * Integer dan Double
-  int x = 10;       // Integer menampung bilangan bulat
-  double y = 10.5;  // Double menampung bilangan desimal
+  int x = 10; // Integer menampung bilangan bulat
+  double y = 10.5; // Double menampung bilangan desimal
 }
 
 //? #1 Boolean
