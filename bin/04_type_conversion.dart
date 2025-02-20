@@ -22,3 +22,14 @@ void integerToOthers() {
   // integer to double
   print(originalInteger.toDouble()); // output = 11.0 (double)
 }
+
+//* 3.Double to Other (.toString(), .toInt())
+void doubleToOthers() {
+  double originalDouble = 10.0;
+
+  // double to string
+  print(originalDouble.toString()); // output = 10.0 (string)
+
+  // double to integer
+  print(originalDouble.toInt()); // output = 10 (integer)
+}
