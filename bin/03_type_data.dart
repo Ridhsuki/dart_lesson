@@ -2,6 +2,8 @@
 
 //? #1 String
 
+// ignore_for_file: unused_local_variable
+
 void string() {
   // * Normal String
   String name = 'Basuki Ridho';
