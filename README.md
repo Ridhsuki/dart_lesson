@@ -1,5 +1,20 @@
 # 🎯 Dart Lesson for Beginners
 
+<p align="">
+  <a href="https://github.com/Ridhsuki/dart_lesson">
+    <img src="https://img.shields.io/github/license/Ridhsuki/dart_lesson?color=brightgreen" alt="License">
+  </a>
+  <a href="https://github.com/Ridhsuki/dart_lesson/stargazers">
+    <img src="https://img.shields.io/github/stars/Ridhsuki/dart_lesson?style=social" alt="GitHub Stars">
+  </a>
+  <a href="https://dart.dev">
+    <img src="https://img.shields.io/badge/Made%20with-Dart-0175C2?logo=dart&logoColor=white" alt="Dart">
+  </a>
+  <a href="https://github.com/Ridhsuki">
+    <img src="https://img.shields.io/badge/By-Ridhsuki-blueviolet" alt="Author">
+  </a>
+</p>
+
 This repository is a collection of **Dart basic learning materials**, written in the form of `.dart` files to help beginners learn Dart step by step, from zero to confident!
 
 All files are located inside the [`/bin`](./bin) folder and are created as part of my learning journey in Semester 2 — with guidance from [@abdillahfaiz](https://github.com/abdillahfaiz) as my mentor. 🙏
@@ -169,7 +184,7 @@ If you have questions, suggestions, or want to connect with me, feel free to rea
 ---
 ## 📃 License
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+This repository is open-source and licensed under the [MIT License](LICENSE).  
 
 You are free to:
 
