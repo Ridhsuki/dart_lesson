@@ -169,33 +169,41 @@ Feel free to contribute if you:
 
 ## 📫 Contact
 
-If you have questions, suggestions, or want to connect with me, feel free to reach out through any of the platforms below:
-
-- 🌐 Website: [ridhsuki.my.id](https://ridhsuki.my.id/)
-- 🐱 GitHub: [Ridhsuki](https://github.com/Ridhsuki/)
-- 📸 Instagram: [@basukiridhoal](https://www.instagram.com/basukiridhoal/)
-- 💼 LinkedIn: [Basuki Ridho](https://www.linkedin.com/in/basuki-ridho)
-- 🎬 YouTube: [@RIDHO_AG](https://www.youtube.com/@RIDHO_AG)
-- 🧵 Threads: [@basukiridhoal](https://www.threads.net/@basukiridhoal)
-- 🎭 Facebook: [Basuki Ridho](https://www.facebook.com/basuki.ridho.921/)
-- 🕊️ BlueSky: [ridhsuki.bsky.social](https://bsky.app/profile/ridhsuki.bsky.social)
-- 🎥 TikTok: [@ritsuchi_dev](https://www.tiktok.com/@ritsuchi_dev)
+<p align="center">
+  <a href="https://ridhsuki.my.id/">
+    <img src="https://img.shields.io/badge/Website-ridhsuki.my.id-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website">
+  </a>
+  <a href="https://github.com/Ridhsuki">
+    <img src="https://img.shields.io/badge/GitHub-Ridhsuki-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.instagram.com/basukiridhoal/">
+    <img src="https://img.shields.io/badge/Instagram-@basukiridhoal-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://www.linkedin.com/in/basuki-ridho">
+    <img src="https://img.shields.io/badge/LinkedIn-Basuki%20Ridho-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.youtube.com/@RIDHO_AG">
+    <img src="https://img.shields.io/badge/YouTube-RIDHO_AG-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
+  <a href="https://www.threads.net/@basukiridhoal">
+    <img src="https://img.shields.io/badge/Threads-@basukiridhoal-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads">
+  </a>
+  <a href="https://www.facebook.com/basuki.ridho.921/">
+    <img src="https://img.shields.io/badge/Facebook-Basuki%20Ridho-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+  <a href="https://bsky.app/profile/ridhsuki.bsky.social">
+    <img src="https://img.shields.io/badge/BlueSky-ridhsuki.bsky.social-0066CC?style=for-the-badge&logo=bluesky&logoColor=white" alt="BlueSky">
+  </a>
+  <a href="https://www.tiktok.com/@ritsuchi_dev">
+    <img src="https://img.shields.io/badge/TikTok-@ritsuchi_dev-010101?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
+  </a>
+</p>
 
 ---
-## 📃 License
+
+## 📄 License
 
 This repository is open-source and licensed under the [MIT License](LICENSE).  
+See the LICENSE file for more details.
 
-You are free to:
-
-- ✅ Use
-- ✅ Copy
-- ✅ Modify
-- ✅ Share
-
-As long as you include the original license and give appropriate credit.
-
-> This project is open source and made for educational purposes.
-
----
 
