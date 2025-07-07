@@ -1,4 +1,4 @@
-<p align="center"><a href="https://dart.dev" target="_blank"><img src="https://res.cloudinary.com/dv8jmnzaf/image/upload/v1751874474/lockup_dart_horizontal_wht_2x_ubwlfr.png" width="300" alt="Dart Logo"></a></p>
+<p align="center"><a href="https://dart.dev" target="_blank"><img src="https://res.cloudinary.com/dv8jmnzaf/image/upload/v1751875824/lockup_dart_horizontal_2x_ovzoou.png" width="300" alt="Dart Logo"></a></p>
 
 <h2 align="center"><b>Dart Lesson for Beginners</b></h2>
 
