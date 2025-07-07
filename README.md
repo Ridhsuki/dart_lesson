@@ -1,6 +1,8 @@
-# 🎯 Dart Lesson for Beginners
+<p align="center"><a href="https://dart.dev" target="_blank"><img src="https://res.cloudinary.com/dv8jmnzaf/image/upload/v1751874474/lockup_dart_horizontal_wht_2x_ubwlfr.png" width="300" alt="Dart Logo"></a></p>
 
-<p align="">
+<h2 align="center"><b>Dart Lesson for Beginners</b></h2>
+
+<p align="center">
   <a href="https://github.com/Ridhsuki/dart_lesson">
     <img src="https://img.shields.io/github/license/Ridhsuki/dart_lesson?color=brightgreen" alt="License">
   </a>
@@ -14,6 +16,8 @@
     <img src="https://img.shields.io/badge/By-Ridhsuki-blueviolet" alt="Author">
   </a>
 </p>
+
+## ℹ️ About
 
 This repository is a collection of **Dart basic learning materials**, written in the form of `.dart` files to help beginners learn Dart step by step, from zero to confident!
 
