@@ -21,7 +21,7 @@
 
 This repository is a collection of **Dart basic learning materials**, written in the form of `.dart` files to help beginners learn Dart step by step, from zero to confident!
 
-All files are located inside the [`/bin`](./bin) folder and are created as part of my learning journey in Semester 2 — with guidance from [@abdillahfaiz](https://github.com/abdillahfaiz) as my mentor. 🙏
+All files are located inside the [`/bin`](https://github.com/Ridhsuki/dart_lesson/tree/main/bin) folder and are created as part of my learning journey in Semester 2 — with guidance from [@abdillahfaiz](https://github.com/abdillahfaiz) as my mentor. 🙏
 
 ---
 
