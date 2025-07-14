@@ -102,7 +102,7 @@ dart_lesson/
    git clone https://github.com/Ridhsuki/dart_lesson.git
    cd dart_lesson
    ```
-3. Run any `.dart` file from the [`/bin`](./bin) folder:
+3. Run any `.dart` file from the [`/bin`](https://github.com/Ridhsuki/dart_lesson/tree/main/bin) folder:
 
    ```bash
    dart run bin/19_functions.dart
@@ -207,7 +207,7 @@ Feel free to contribute if you:
 
 ## 📄 License
 
-This repository is open-source and licensed under the [MIT License](LICENSE).  
+This repository is open-source and licensed under the [MIT License](https://github.com/Ridhsuki/dart_lesson?tab=MIT-1-ov-file).  
 See the LICENSE file for more details.
 
 
